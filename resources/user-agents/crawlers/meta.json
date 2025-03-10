@@ -1,0 +1,9 @@
+{
+  "userAgent": "meta-externalagent/1.1",
+  "properties": {
+    "Comment": "Meta Web Crawler",
+    "Browser_Type" : "Bot/Crawler"
+    "MajorVer": "1",
+    "MinorVer": "1"
+  }
+}
